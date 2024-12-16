@@ -1,0 +1,1 @@
+# Diabetes-Prediction-from-PIMA-Indian-Dataset-Using-R
